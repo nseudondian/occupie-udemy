@@ -418,7 +418,7 @@ the contents should appear like so */
               box-sizing: content-box;
           }
           #top-col{
-            height: 12vh;
+            height: 15vh;
             background: #06173E;
         }
         /* .navbar img{
@@ -429,7 +429,7 @@ the contents should appear like so */
               display: none;
           }
           #banner{
-             padding-top: 50px;
+             padding-top: 2em;
              height: 60vh;            
              background-size: cover;
              position: relative;
@@ -473,7 +473,7 @@ the contents should appear like so */
           /* The first text there has a class of class of one, let's style it */
 
           #third{
-                height: 260vh;
+                height: 350vh;
           }
           .contain{
               margin: 2em;
@@ -514,7 +514,7 @@ the contents should appear like so */
             width: 50px
         }
         #news{
-            height: 240vh;
+            height: 300vh;
         }
        .news{
            display: block;
@@ -530,7 +530,7 @@ the contents should appear like so */
        /* Let's define a height for the footer section */
        #footer{
            height: 100vh;
-           background-size: contain;
+           background-size: cover;
            background-repeat: none;
        }
        .footer{
