@@ -430,7 +430,7 @@ the contents should appear like so */
           }
           #banner{
              padding-top: 2px;
-             height: 35vh;            
+             height: 100vh;            
              background-size: contain;
              position: relative;
           }
@@ -473,7 +473,7 @@ the contents should appear like so */
           /* The first text there has a class of class of one, let's style it */
 
           #third{
-                height: 250vh;
+                height: 400vh;
           }
           .contain{
               margin: 2em;
@@ -514,7 +514,7 @@ the contents should appear like so */
             width: 50px
         }
         #news{
-            height: 230vh;
+            height: 300vh;
         }
        .news{
            display: block;
