@@ -418,7 +418,7 @@ the contents should appear like so */
               box-sizing: content-box;
           }
           #top-col{
-            height: 10vh;
+            height: 12vh;
             background: #06173E;
         }
         /* .navbar img{
@@ -429,9 +429,9 @@ the contents should appear like so */
               display: none;
           }
           #banner{
-             padding-top: 2px;
-             height: 100vh;            
-             background-size: contain;
+             padding-top: 50px;
+             height: 60vh;            
+             background-size: cover;
              position: relative;
           }
           #banner:after {
@@ -458,8 +458,8 @@ the contents should appear like so */
               font-size: 0.5em;
           }
           .top-button{
-             width: 35%;
-             height: 15%;
+             width: 15em;
+             height:5em;
               margin: 0 40px;
               font-size: 0.6em;
               padding: 1em;
@@ -473,7 +473,7 @@ the contents should appear like so */
           /* The first text there has a class of class of one, let's style it */
 
           #third{
-                height: 400vh;
+                height: 260vh;
           }
           .contain{
               margin: 2em;
@@ -514,7 +514,7 @@ the contents should appear like so */
             width: 50px
         }
         #news{
-            height: 300vh;
+            height: 240vh;
         }
        .news{
            display: block;
